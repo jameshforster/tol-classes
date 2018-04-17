@@ -1,0 +1,9 @@
+[{
+  "modid": "tol-factions",
+  "name": "ToL Factions",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Overlord59"],
+}]
