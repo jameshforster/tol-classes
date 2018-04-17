@@ -1,6 +1,6 @@
 [{
-  "modid": "tol-factions",
-  "name": "ToL Factions",
+  "modid": "tol-classes",
+  "name": "ToL Classes",
   "description": "",
   "version": "${version}",
   "mcversion": "${mcversion}",

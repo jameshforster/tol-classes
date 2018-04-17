@@ -13,7 +13,7 @@ import storage.playerClasses.{IPlayerClasses, PlayerClasses, PlayerClassesStorag
   * Created by james-forster on 09/04/18.
   */
 
-@Mod(modid = "tol-factions")
+@Mod(modid = "tol-classes")
 class Main {
 
   @SidedProxy(clientSide = "proxy.ClientProxy", serverSide = "proxy.ServerProxy")
